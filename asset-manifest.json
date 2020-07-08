@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/funny-tiles/static/css/main.72014e9e.chunk.css",
+    "main.js": "/funny-tiles/static/js/main.a772a20b.chunk.js",
+    "main.js.map": "/funny-tiles/static/js/main.a772a20b.chunk.js.map",
+    "runtime-main.js": "/funny-tiles/static/js/runtime-main.aa1bc679.js",
+    "runtime-main.js.map": "/funny-tiles/static/js/runtime-main.aa1bc679.js.map",
+    "static/js/2.794d6c15.chunk.js": "/funny-tiles/static/js/2.794d6c15.chunk.js",
+    "static/js/2.794d6c15.chunk.js.map": "/funny-tiles/static/js/2.794d6c15.chunk.js.map",
+    "index.html": "/funny-tiles/index.html",
+    "precache-manifest.a220ea03c1e1936a2e4850760577e398.js": "/funny-tiles/precache-manifest.a220ea03c1e1936a2e4850760577e398.js",
+    "service-worker.js": "/funny-tiles/service-worker.js",
+    "static/css/main.72014e9e.chunk.css.map": "/funny-tiles/static/css/main.72014e9e.chunk.css.map",
+    "static/js/2.794d6c15.chunk.js.LICENSE.txt": "/funny-tiles/static/js/2.794d6c15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa1bc679.js",
+    "static/js/2.794d6c15.chunk.js",
+    "static/css/main.72014e9e.chunk.css",
+    "static/js/main.a772a20b.chunk.js"
+  ]
+}
