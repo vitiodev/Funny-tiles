@@ -1,2 +1,2 @@
-# funny-tiles
-Funny tiles
+# Funny tiles
+Funny game with different color tiles.
