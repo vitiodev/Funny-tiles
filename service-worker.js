@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/funny-tiles/precache-manifest.a220ea03c1e1936a2e4850760577e398.js"
+  "/funny-tiles/precache-manifest.7696565e19ac7fe460ae3a6a73ea7019.js"
 );
 
 self.addEventListener('message', (event) => {
